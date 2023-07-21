@@ -11,5 +11,6 @@ nltk == 3.8.1
 tqdm == 4.65.0
 palettable == 3.3.3
 pillow == 9.5.0
-setuptools == 66.0.0          
+setuptools == 66.0.0 
+xgboost == 1.7.6     
 
